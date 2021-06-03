@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>We had hoped, seeing it is notorious to all our subiects, how greatly we delight in the exercise of hunting, as well for our recreation, ...</title>
+            <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B12783</idno><idno type="EEBO-CITATION">99892809</idno>
+  <idno type="VID">187203</idno>
+  <idno type="EEBO-PROQUEST">2240923088</idno>
+  
+            <idno type="STC">STC 8439</idno>
+            <idno type="STC">Interim Tract Supplement Guide 506.h.10[107]</idno>
+            <idno type="PROQUEST">ocm99892809</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99892809e"/>
+            <note>(EEBO-TCP ; phase 2, no. B12783)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 187203)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C7:1[107])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>We had hoped, seeing it is notorious to all our subiects, how greatly we delight in the exercise of hunting, as well for our recreation, ...</title>
+                  <author>England and Wales. Sovereign (1603-1625 : James I)</author>
+                  <author>James I, King of England, 1566-1625.</author>
+               </titleStmt>
+               <extent>2 sheets (versos blank).   </extent>
+               <publicationStmt>
+                  <publisher>By Robert Barker, printer to the Kings most excellent Maiestie.,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>Anno 1609.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from first lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Dated at end: Hampton Court the ix. day of September, in the seuenth yeere of our reigne ...</note>
+                  <note>Forbidding deer hunting in royal forests. Cf. STC.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Poaching --  England --  Early works to 1800.</term>
+               <term type="topical_term">Hunting --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  James I, 1603-1625 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:187203:1"/>
+            <head>❧ By the King.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>E had hoped, seeing it is notorious to all our Sub<g ref="char:EOLhyphen"/>iects,</hi> how greatly we delight in the exercise of Hunting, aswell for our recreation, as for the necessary preseruation of our health, that no man in whom was either reuerence to our person, or feare of our Lawes, would haue offered vs offence in those our sports, conside<g ref="char:EOLhyphen"/>ring especially, that the nature of all people is not onely in things of this qualitie, but in matters of greater moment so farre to conforme themselues to the affections and disposition of their Soueraigne, as to affect that which they know to be liking to them and to respect it, and to auoyd the contrary: And we must acknowledge that we haue found, that Gentlemen and persons of the better sort (who know best what becommeth their duetie) haue restrained their owne humors and framed themselues therein to giue vs contentment: yet falleth it out notwithstanding, that neither the example of them, nor respect of the Lawes, nor duetie to vs, hath had power to reforme the cor<g ref="char:EOLhyphen"/>rupt natures and insolent dispositions of some of the baser sort, and some other of a disordered life; By diuers of which condition (since our offence manifested against those that trespasse in that kind) and since our last comming forth into this Progresse, in places where we lately tooke our pleasure in our owne Grounds, and neere our owne houses of abode, there haue bene more frequent offences offered in that kinde, then at any time heretofore, or in the late Queenes dayes were attempted: Neuerthelesse, howsoeuer in her later dayes (being a Lady whose sexe and yeeres were not so apt to that kinde of recreation, hauing no posteritie, and therefore lesse care<g ref="char:EOLhyphen"/>full of conseruation of that kinde of Royaltie, which her Progenitors Kings of this Realme had mainteined) people might perhaps for those respects presume of more libertie then became them, or the Lawes of the Realme do permit; Yet in our time, being a Prince that haue mani<g ref="char:EOLhyphen"/>fested our affection &amp; delight in that exercise, &amp; hauing posteritie like to continue in the same dis<g ref="char:EOLhyphen"/>positiō, when either their recreation or their exercise shal require it; It seemeth strange that men will now attempt to offend with more licentiousnesse, then at any time heretofore, and offer to vs in our Grounds, that which they will not endure each at others hands in their owne. Wee are not ignorant, that there are some passions in mens minds so strong, as hard it is but they wil breake foorth at times beyond the bounds of reason, where commoditie, pleasure or reuenge pro<g ref="char:EOLhyphen"/>uoketh: But this offence being a trespassing against reason which hath no end in it, whereof can redound to the offender either profit or pleasure, honour or other recompense; Wee cannot inter<g ref="char:EOLhyphen"/>prete that the transgressions that are done therein do proceed, but either out of a barbarous and vnciuil disposition, not fit to be suffered in an ordered Estate, or out of an insolent humor &amp; vnre<g ref="char:EOLhyphen"/>spectiue to our person, no wayes to be endured. And seeing that we haue manifested our Prince<g ref="char:EOLhyphen"/>ly disposition to the maintenance of Iustice, and giuen as free and liberall scope to the execution of the Lawes of this Realme, as euer did any of our Progenitors, We cannot but wonder that men should cōceiue that in these kinds of trespasses being so offensiue to vs, we would not be iust to our selfe &amp; right the wrongs &amp; insolencies offered to vs, in so speciall a branch of our Preroga<g ref="char:EOLhyphen"/>tiue, where the Lawes and Statutes of the Realme, both Ancient &amp; Moderne, do affoord vs so full and strong remedies, as appeares by the Charter of our Forrest, as ancient and authen<g ref="char:EOLhyphen"/>ticall,
+<pb facs="tcp:187203:2"/>as the great Charter of the Lawes of the Realme, and by other Lawes and Statutes, some inforcing the Offendors (besides other grieuous punishments of Fine and imprisonment) to abiure the Realme, some punishing them with death, as iudging them vnworthy to liue, at least in this well ordered Kingdome, that cannot bridle so inordinate an humour, which reig<g ref="char:EOLhyphen"/>ning with so great violence in one excesse, will passe on (if it be not checked) to all other extremi<g ref="char:EOLhyphen"/>ties. Being therefore thus deepely prouoked, and minding to vse as straight and as seuere meanes for the preseruation of our right, and punishing of Offendours in these cases, as the Lawes of our Realme will affoord; We haue bene pleased notwithstanding out of our grati<g ref="char:EOLhyphen"/>ous disposition, to forewarne men of our purpose, by proposing to them the seueritie we intend to vse hereafter, for redresse of such enormities, knowing that such warning wil either restraine them from giuing vs offence, or (if their vnduetifull humour can be reformed by no admonition) make them the more inexcusable to vs and our lawes for their punishment. And therefore we doe hereby signifie to all men, that after the publishing of this Proclamation, our meaning is to proceed in this maner against all Hunters, Stealers, and killers of Deere, either redde or fal<g ref="char:EOLhyphen"/>lowe, within any our Forrests, Chases, or Parkes.</p>
+            <p>First, to extend against them all penalties whatsoeuer, which by the Lawes of the Forrests, or by any other Lawes or Statutes of the Realme are to be inflicted vpon them. To giue a good reward to all such as shall informe Vs, or our Iustices of our Forrests, or any Lieute<g ref="char:EOLhyphen"/>nant, or any other hauing charge of any our Forrests, Parkes, or Chaces, of any Offendours in hunting, stealing, or killing of our Deere by any vnlawfull wayes. And if the fault be found in any of our Seruants, or any towards our Court, or person of qualitie, he shalbe assured not onely to loose our fauour, but to be debarred of our presence, or resort to our Court. And if it appeare that none of those penalties shall haue power to restraine insolent mindes from com<g ref="char:EOLhyphen"/>mitting outrages so wilfull and vnreasonable: We will make no doubt but that our Parliament finding the Lawes now in force too weake to roote out such an euill, will assist vs with their aduise, to prouide some further and more sufficient remedies for that purpose, wherein they are interessed aswell as we: for they that dare presume vpon vs will not spare them. But our hope is, that our Subiects, knowing now againe the offence we take at these insolencies, and being warned of our intent, will not giue vs cause to exercise the least of these penalties, which wee shalbe glad to finde, aswell to see the Conformitie of our peoples mindes to our disposition, as for the clemencie of our Nature, vnwilling to haue any cause of punishment against the least of them, especially in matter concerning our Selfe.</p>
+            <closer>
+               <dateline>
+                  <hi>Giuen at our Honour of Hampton Court<date> the ix. day of September, in the seuenth yeere of our Reigne of Great Britaine, France and Ireland.</date>
+                  </hi>
+               </dateline>
+            </closer>
+            <closer>God saue the King.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by Robert Barker, Printer to the Kings most Excellent Maiestie. ANNO 1609.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
